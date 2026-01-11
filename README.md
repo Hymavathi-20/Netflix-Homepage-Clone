@@ -1,9 +1,26 @@
-# Netflix-Homepage-Clone
+# 🎬 Netflix Frontend Clone
 
-• Built a responsive Netflix landing page clone using HTML5 and CSS3
+A static frontend UI clone of the Netflix landing page built using **HTML and CSS**.  
+This project was created for **learning and practice purposes** to understand modern UI design and layout techniques.
 
-• Implemented Flexbox layouts, gradients, hover effects, and card-based UI
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+- Font Awesome
 
-• Focused on pixel-perfect design and modern UI styling
+## ✨ Features
+- Netflix-style modern UI
+- Gradient overlay background
+- Card-based feature sections
+- Hover effects on movie thumbnails
+- Clean and structured layout
 
-• Project created for learning and frontend practice
+## 🎯 Learning Outcomes
+- Practiced Flexbox-based layouts
+- Improved CSS styling with gradients and transitions
+- Built a real-world inspired landing page UI
+
+> ⚠️ Disclaimer:  
+> This project is for educational purposes only.  
+> Netflix is a registered trademark of Netflix, Inc.
